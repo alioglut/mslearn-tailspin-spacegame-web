@@ -11,6 +11,7 @@ const paths = {
   webroot: "./Tailspin.SpaceGame.Web/wwwroot/"
 };
 
+
 paths.js = paths.webroot + "js/**/*.js";
 paths.minJs = paths.webroot + "js/**/*.min.js";
 paths.css = paths.webroot + "css/**/*.css";
